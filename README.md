@@ -63,11 +63,13 @@ transforms.Compose([
    - Values chosen based on MNIST dataset statistics
    - Impact: Helps with faster convergence and better gradient flow
 
-## 📈 Training Results
+## 📈 Test Results
 
 Our model achieves competitive performance on the MNIST dataset:
 
 ![Training Metrics](metric_results/metrics.png)
+
+**The Best Model Accuracy is 99.4% under 12 epochs.**
 
 ## 🛠 Project Structure
 
